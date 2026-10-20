@@ -1,0 +1,2 @@
+# SDK oficial de Ollama para la comunicación con la API local
+ollama>=0.4.0
